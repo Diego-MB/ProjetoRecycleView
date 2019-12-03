@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorAquaman">#f95e1c</color>
+    <color name="colorBatman">#96a1a7</color>
+    <color name="colorCapitaoAmerica">#003ddc</color>
+    <color name="colorCapitaoPlaneta">#dad6e5</color>
+    <color name="colorFlash">#d2150f</color>
+    <color name="colorMulherMaravilha">#e2050a</color>
+    <color name="colorSpiderman">#de030b</color>
+    <color name="colorSuperChoque">#2f3775</color>
+    <color name="colorThor">#c51112</color>
+    <color name="colorWolverine">#fcce00</color>
+</resources>
